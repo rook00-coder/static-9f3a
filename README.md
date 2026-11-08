@@ -4,7 +4,7 @@ Synthetic HTML fixtures for an authorized Microsoft Copilot Bounty evaluation.
 No personal data, credentials, or production code.
 
 - `control.html` — benign page.
-- `payload.html` — the same visible content with a hidden instruction that points
+- `payload.html` — the same visible content with a prose reference that points
   at a disposable canary webhook.
 - `index.html` — links to both.
 
